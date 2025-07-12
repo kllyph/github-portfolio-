@@ -15,13 +15,21 @@ Hello! This repository serves as a central hub for my featured projects, technic
 
 ## 🛠️ Skills & Tools
 
-**Languages**: Python, c++ 
+**Languages**: Python, C++ 
 **Libraries**: scikit-learn, pandas, NumPy, matplotlib, seaborn  
 **Tools**: Jupyter Notebook, GitHub, VS Code  
 **Concepts**: Machine Learning, Data Visualization, Model Evaluation, SMOTE, Hyperparameter Tuning
 
 ---
+## 🎯 Interests
 
+- 🧠 Machine Learning & AI Ethics – exploring real-world applications and responsible innovation  
+- 🕵️‍♂️ Cybersecurity – diving into CIS compliance and threat mitigation  
+- 🌍 Scouting & Leadership – shaped by experiences in outdoor leadership, team-building, and service-oriented growth  
+- 🏫 Student Club Leadership – led initiatives, organized events, and managed fundraising efforts as part of school organizations
+- 📚 Lifelong Learning – currently studying for the ISC2 CC certification
+
+---
 ## 📫 Contact
 
 - 📧 Email: kllyphm@gmail.com  
