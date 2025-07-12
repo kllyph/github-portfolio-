@@ -1,5 +1,3 @@
-# Github-Portfolio-
-
 # 👋 Welcome to my GitHub Portfolio
 
 Hello! This repository serves as a central hub for my featured projects, technical skills, and contact information.
@@ -30,10 +28,12 @@ Hello! This repository serves as a central hub for my featured projects, technic
 - 📚 Lifelong Learning – currently studying for the ISC2 CC certification
 
 ---
+
 ## 📫 Contact
 
 - 📧 Email: kllyphm@gmail.com  
 - 💼 LinkedIn: www.linkedin.com/in/kelly-pham-976338317
+  
 ---
 
 ## 📌 About This Repo
