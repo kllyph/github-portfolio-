@@ -38,5 +38,5 @@ Hello! This repository serves as a central hub for my featured projects, technic
 
 ## 📌 About This Repo
 
-This repository is not a codebase. It's a curated showcase of my work. Each project listed here links to its own dedicated repository with full documentation, code, and results.
+This repository is not a codebase. It's a curated showcase of my work where each project listed here links to its own dedicated repository with full documentation, code, and results.
 
