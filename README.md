@@ -23,16 +23,16 @@ Hello! This repository serves as a central hub for my featured projects, technic
 
 - 🧠 Machine Learning & AI Ethics – exploring real-world applications and responsible innovation  
 - 🕵️‍♂️ Cybersecurity – diving into CIS compliance and threat mitigation  
-- 🌍 Scouting & Leadership – shaped by experiences in outdoor leadership, team-building, and service-oriented growth  
 - 🏫 Student Club Leadership – led initiatives, organized events, and managed fundraising efforts as part of school organizations
 - 📚 Lifelong Learning – currently studying for the ISC2 CC certification
+- 🌍 Scouting & Leadership – shaped by experiences in outdoor leadership, team-building, and service-oriented growth  
 
 ---
 
 ## 📫 Contact
 
 - 📧 Email: kllyphm@gmail.com  
-- 💼 LinkedIn: www.linkedin.com/in/kelly-pham-976338317
+- 💼 LinkedIn: www.linkedin.com/in/kelly-pham-cs
   
 ---
 
