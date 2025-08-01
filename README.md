@@ -1,6 +1,8 @@
 # 👋 Welcome to my GitHub Portfolio
 
-Hello! This repository serves as a central hub for my featured projects, technical skills, and contact information.
+Hello! I am an aspiring Computer Science student with a strong passion for exploring the diverse and dynamic fields within CS. I’m eager to apply and expand my technical skills in a professional environment, and I’m driven by a genuine enthusiasm for innovation, collaboration, and continuous learning. My goal is to contribute meaningfully to impactful projects and the industry. 
+
+This repository serves as a central hub for my featured projects, technical skills, and contact information.
 
 ---
 
@@ -31,7 +33,7 @@ Hello! This repository serves as a central hub for my featured projects, technic
 
 ---
 
-## 📫 Contact
+## 📫 Connect With Me 
 
 - 📧 Email: kllyphm@gmail.com  
 - 💼 LinkedIn: www.linkedin.com/in/kelly-pham-cs
