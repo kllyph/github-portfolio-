@@ -8,7 +8,7 @@ Hello! This repository serves as a central hub for my featured projects, technic
 
 - [Diabetes Prediction](https://github.com/kllyph/Diabetes-ML-Prediction)  
   Built Random Forest models to predict diabetes risk using patient health data. Achieved 97% accuracy and improved recall for positive cases via SMOTE and feature engineering.
-- [Income Classifier](https://github.com/kllyph/income-classifier/tree/main)
+- [Income Classifier](https://github.com/kllyph/income-classifier)
   Machine learning classifier that predicts whether an individual earns more or less than $50K annually with optimized Random Forest and Logistic Regression models, featuring cross-validated tuning, validation curves, and log loss analysis for reliable generalization.
 
 ---
