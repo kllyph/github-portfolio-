@@ -15,7 +15,7 @@ Hello! This repository serves as a central hub for my featured projects, technic
 
 ## 🛠️ Skills & Tools
 
-**Languages**: Python, C++ 
+**Languages**: Python, C++  
 **Libraries**: scikit-learn, pandas, NumPy, matplotlib, seaborn  
 **Tools**: Jupyter Notebook, GitHub, VS Code  
 **Concepts**: Machine Learning, Data Visualization, Model Evaluation, SMOTE, Hyperparameter Tuning
